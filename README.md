@@ -218,16 +218,6 @@ I enjoy taking new concepts and turning them into working software while continu
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hirushannimsarapathirana-prog&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
