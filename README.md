@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hirushan Pathirana
 
-### 💻 Software Engineering Undergraduate | Java & Spring Boot Developer
+### 💻 Intern Software Engineering Undergraduate | Java & Spring Boot Developer
 
 <p>
   <a href="https://github.com/hirushannimsarapathirana-prog">
