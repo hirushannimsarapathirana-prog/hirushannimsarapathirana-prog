@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hirushan Pathirana
 
-### 💻 Software Engineering Undergraduate | Full-Stack Developer | Intern Software Engineer
+### 💻 Software Engineering Undergraduate | Java & Spring Boot Developer
 
 <p>
   <a href="https://github.com/hirushannimsarapathirana-prog">
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Java+%7C+C%23+%7C+Python+%7C+PHP;Full-Stack+Web+Developer;Building+Real-World+Software+Solutions;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Java+%7C+Spring+Boot+Developer;Full-Stack+Developer;Building+Real-World+Software+Solutions;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -24,15 +24,17 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hirushan Pathirana**, a Software Engineering undergraduate with a strong foundation in programming, web development, database management, and software system development.
+I'm **Hirushan Pathirana**, a Software Engineering undergraduate with a strong interest in software development, backend development, web technologies, and database management.
 
-I'm passionate about learning modern technologies and transforming ideas into practical, real-world software solutions.
+I'm passionate about learning modern technologies and building practical software solutions.
 
-🎓 Currently pursuing **BSc (Hons) Software Engineering** at Cardiff Metropolitan University through ICBT Sri Lanka.
+🎓 Currently pursuing **BSc (Hons) Software Engineering** at Cardiff Metropolitan University, UK through ICBT Sri Lanka.
 
-💼 Interested in **Intern Software Engineer / Software Developer** opportunities where I can apply my technical knowledge, learn from industry professionals, and contribute to meaningful projects.
+💻 My main development focus is **Java and Spring Boot**, with an interest in building scalable backend systems and full-stack applications.
 
-🚀 I enjoy building applications across **web development, backend systems, database-driven applications, and software management systems**.
+🎨 I also enjoy designing user interfaces and exploring modern development tools such as **Figma**.
+
+🚀 Always learning, experimenting, and improving my software engineering skills.
 
 ---
 
@@ -46,9 +48,9 @@ I'm passionate about learning modern technologies and transforming ideas into pr
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cs,python,php" />
@@ -59,7 +61,23 @@ I'm passionate about learning modern technologies and transforming ideas into pr
 * Python
 * PHP
 
-### 🌐 Web Development
+---
+
+## ☕ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+* Java
+* Spring Boot
+* REST API Development
+* JSON
+* Backend Application Development
+
+---
+
+## 🌐 Web Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -68,29 +86,59 @@ I'm passionate about learning modern technologies and transforming ideas into pr
 * HTML5
 * CSS3
 * JavaScript
-* ASP.NET Framework
-* REST-style web communication
-* JSON-based applications
+* Web Application Development
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 * MySQL
+* SQLite
 * Microsoft SQL Server
 * SQL Server Management Studio
 * MySQL Workbench
 
-### 🔧 Tools & Platforms
+---
+
+## ☁️ Backend Services & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=supabase" />
+</p>
+
+* Supabase
+* Database Integration
+* Backend Services
+
+---
+
+## 🎨 UI / UX Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+* Figma
+* UI Design
+* UX Design
+* Wireframing
+* Interface Prototyping
+
+---
+
+## 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio,postman" />
 </p>
 
 * Git & GitHub
 * IntelliJ IDEA
+* Visual Studio
 * Visual Studio Code
 * Postman
 * MySQL Workbench
@@ -98,90 +146,53 @@ I'm passionate about learning modern technologies and transforming ideas into pr
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 What I'm Currently Learning
 
-## 🎓 Student Management System — Java Web Application
-
-A full-stack Student Management System developed using Java for the backend and HTML, CSS, and JavaScript for the frontend.
-
-### ✨ Highlights
-
-* Student information management
-* CRUD operations
-* MySQL database integration
-* Frontend-to-backend communication
-* HTTP requests
-* JSON-based data exchange
-
-### 🧰 Technologies
-
-`Java` `HTML` `CSS` `JavaScript` `MySQL` `JSON`
-
-🔗 **Backend:**
-https://github.com/hirushannimsarapathirana-prog/student-management-back-end
-
-🔗 **Frontend:**
-https://github.com/hirushannimsarapathirana-prog/student-management-front-end
+```text
+☕ Java
+🌱 Spring Boot
+🌐 Full-Stack Web Development
+🗄️ Database Design & Management
+🔐 Authentication & Application Security
+☁️ Supabase & Backend Services
+🎨 UI/UX Design with Figma
+📱 Application Development
+🤖 AI-Powered Applications
+🚀 Software Engineering Best Practices
+```
 
 ---
 
-## 🎓 Student Management System — C# / ASP.NET
+# 🎯 Career Goals
 
-A CRUD-based Student Management System designed to efficiently manage student information.
+I'm focused on continuously improving my software engineering skills and gaining professional industry experience.
 
-### ✨ Highlights
+My current goals include:
 
-* Create student records
-* Retrieve student information
-* Update student records
-* Delete student records
-* MySQL database integration
-
-### 🧰 Technologies
-
-`C#` `ASP.NET Framework` `MySQL`
-
-🔗 **Repository:**
-https://github.com/hirushannimsarapathirana-prog/Student-Management-system
+* 🚀 Building production-ready applications
+* ☕ Becoming stronger in Java & Spring Boot
+* 💻 Improving backend and full-stack development
+* 🗄️ Improving database design and management
+* 🔐 Learning secure application development
+* ☁️ Exploring cloud and backend services
+* 🎨 Improving UI/UX design skills
+* 🤖 Exploring AI integration into applications
+* 🤝 Collaborating with other developers
+* 📚 Continuously learning modern technologies
 
 ---
 
-## 🦷 Sunrise Dental Clinic Management System
+# 💡 Development Philosophy
 
-A software project focused on managing dental clinic operations and appointment-related information.
+<div align="center">
 
-### 🧰 Technologies
+### Learn → Build → Test → Improve → Repeat 🔁
 
-`Java` `HTML` `CSS` `JavaScript` `MySQL`
+</div>
 
-🔗 **Repository:**
-https://github.com/hirushannimsarapathirana-prog/sunrise-dental-system
+I believe that continuous learning and practical development are essential for becoming a better software engineer.
 
----
-
-## 🔧 Hardware Management System
-
-A backend-oriented hardware shop management system designed around business operations and database-driven management.
-
-### 🧰 Technologies
-
-`Java` `MySQL` `REST API` `Database Management`
-
-🔗 **Repository:**
-https://github.com/hirushannimsarapathirana-prog/Full-Hardware-System-
-
----
-
-## 👗 Velvet Vogue — Clothing E-Commerce Website
-
-A responsive clothing shopping website designed to allow users to browse products, add products to a shopping cart, and simulate an online purchasing experience.
-
-### 🧰 Technologies
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:**
-https://github.com/hirushannimsarapathirana-prog/Velvet-Vogue-Website
+I enjoy taking new concepts and turning them into working software while continuously improving my development skills.
 
 ---
 
@@ -217,51 +228,9 @@ https://github.com/hirushannimsarapathirana-prog/Velvet-Vogue-Website
 
 ---
 
-# 🧠 What I'm Currently Learning
-
-```text
-☕ Java & Backend Development
-🌐 Full-Stack Web Development
-🗄️ Database Design & Management
-🔐 Authentication & Application Security
-📱 Application Development
-🤖 AI-Powered Applications
-☁️ Deployment & Cloud Technologies
-🚀 Software Engineering Best Practices
-```
-
----
-
-# 🎯 Career Goals
-
-I'm currently focused on developing my skills as a software engineer and gaining professional industry experience.
-
-My goals include:
-
-* 🚀 Building production-ready applications
-* 💻 Improving backend and full-stack development skills
-* 🗄️ Designing reliable database-driven systems
-* 🔐 Learning secure software development practices
-* 🤖 Exploring AI integration into software applications
-* ☁️ Learning modern deployment and cloud technologies
-* 🤝 Working with professional development teams
-* 📚 Continuously improving my software engineering knowledge
-
----
-
-# 💡 My Development Philosophy
-
-> **Learn → Build → Test → Improve → Repeat 🔁**
-
-I believe the best way to become a better developer is to continuously learn new concepts and apply them by building real-world projects.
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
-
-### 💬 I'm always interested in learning, collaborating, and building new software.
 
 <a href="mailto:hirushanpathirana48@gmail.com">
 <img src="https://img.shields.io/badge/Email-hirushanpathirana48%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
