@@ -164,22 +164,18 @@ Full-Stack Web Development
 
 ---
 
-# 🎯 Career Goals
-
-I'm focused on continuously improving my software engineering skills and gaining professional industry experience.
-
-My current goals include:
-
-* 🚀 Building production-ready applications
-* ☕ Becoming stronger in Java & Spring Boot
-* 💻 Improving backend and full-stack development
-* 🗄️ Improving database design and management
-* 🔐 Learning secure application development
-* ☁️ Exploring cloud and backend services
-* 🎨 Improving UI/UX design skills
-* 🤖 Exploring AI integration into applications
-* 🤝 Collaborating with other developers
-* 📚 Continuously learning modern technologies
+# 🧠 What I'm Currently Learning
+☕ Java
+🌱 Spring Boot
+⚡ Next.js
+📱 Flutter & Dart
+🌐 Full-Stack Web Development
+🗄️ Database Design & Management
+🔐 Authentication & Application Security
+☁️ Supabase & Cloud Services
+🎨 UI/UX Design with Figma
+🤖 AI-Powered Applications
+🚀 Software Engineering Best Practices
 
 ---
 
