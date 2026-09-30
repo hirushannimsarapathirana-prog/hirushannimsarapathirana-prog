@@ -50,43 +50,44 @@ I'm passionate about learning modern technologies and building practical softwar
 
 # 🛠️ Technical Skills
 
-## 💻 Programming Languages
+##💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cs,python,php" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=java,cs,python,php,dart,ts" /> </p>
 
-* Java
-* C#
-* Python
-* PHP
-
----
-
-## ☕ Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
-* Java
-* Spring Boot
-* REST API Development
-* JSON
-* Backend Application Development
+Java
+C#
+Python
+PHP
+Dart
+TypeScript
 
 ---
 
-## 🌐 Web Technologies
+##☕ Backend & Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=java,spring,nextjs" /> </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* Web Application Development
+Java
+Spring Boot
+Next.js
+REST API Development
+JSON
+Backend Application Development
+Full-Stack Application Development
+
+---
+
+##🌐 Web Technologies
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs" /> </p>
+
+HTML5
+CSS3
+JavaScript
+TypeScript
+Next.js
+Responsive Web Development
+Full-Stack Web Development
 
 ---
 
